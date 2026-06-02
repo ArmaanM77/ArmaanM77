@@ -1,257 +1,79 @@
-<!-- Profile README for ArmaanM77 -->
-
 <div align="center">
 
-# Armaan Mahajan
+<img src="./banner.svg" alt="Armaan Mahajan | Mechanical Engineering at IIT Roorkee" width="100%" />
 
-### Mechanical Engineering @ IIT Roorkee  
-**CAD Automation · Robotics · Manufacturing Systems · Operations Analytics**
+<br />
 
 <a href="https://www.linkedin.com/in/armaan-m7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ArmaanM77">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://armaanm77.github.io/Debsoc_Dashboard_App/">
-  <img src="https://img.shields.io/badge/Live%20Dashboard-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
----
+## Hi, I'm Armaan
 
-## About
+I'm a Mechanical Engineering undergraduate at IIT Roorkee. I enjoy working on engineering problems where design, simulation, experimentation, and code meet: autonomous systems, CAD-driven workflows, robotics, and fluid mechanics.
 
-I’m a **Mechanical Engineering undergraduate at IIT Roorkee**, interested in building practical engineering systems at the intersection of:
+My recent work includes building an autonomous vehicle stack in ROS and Gazebo, designing wind-tunnel experiments for controlled turbulence and active flow control, and contributing to ML-assisted CAD and drafting automation for manufacturing applications.
 
-- **CAD and manufacturing automation**
-- **Design intent extraction**
-- **Autonomous systems and robotics**
-- **Experimental fluid mechanics**
-- **Operations and analytics platforms**
+## Selected Work
 
-My work is not about writing software for the sake of it.  
-I like using software as a tool to solve real mechanical, manufacturing, robotics, and operational problems.
+### Autonomous Vehicle Simulation & Hardware Design
 
----
+Worked with **IIT Roorkee Motorsports x Data Science Group** on a simulated autonomous ground vehicle and its hardware integration.
 
-## Current Focus
+- Developed a perception-planning-control pipeline in ROS and Gazebo
+- Trained an object detection model with **0.848 mAP** on the FSOCO dataset
+- Designed a discretized-environment SLAM framework for structured tracks
+- Implemented lateral and longitudinal controllers for closed-loop navigation
+- Contributed to proof-of-concept components for mounting, packaging, and actuation
 
-```text
-Mechanical Engineering + Software + Manufacturing Intelligence
-```
+### Active Grid for Controlled Turbulent Flow
 
-I am currently exploring:
+Designed a modular active grid for wind-tunnel studies under **Prof. Sushanta Dutta** at IIT Roorkee.
 
-- Parametric CAD data extraction
-- Design intent extraction from geometry and feature trees
-- Isomorphic feature recognition for mechanical parts
-- CAD-to-technical-drawing automation
-- Driverless Formula Student autonomy
-- Cone-based localization and SLAM
-- ROS/Gazebo simulation workflows
-- Operations dashboards and structured analytics tools
+- Built parametric CAD models of rotating winglets
+- Studied blockage, flow uniformity, wake interaction, and shear-layer development
+- Used CFD simulations to evaluate geometric and actuation configurations
 
----
+### Active Flow Control of a Bluff Body
 
-## Technical Areas
+Working on an experimental setup to study drag reduction using synchronized jet actuation.
 
-| Area | What I Work On |
-|---|---|
-| **CAD Automation** | Feature trees, geometry representations, design intent, drawing automation |
-| **Manufacturing Intelligence** | Feature recognition, manufacturability logic, technical documentation workflows |
-| **Robotics** | Driverless Formula Student stack, SLAM, localization, simulation |
-| **Fluid Mechanics** | PIV, flow visualization, active jet spoiler studies |
-| **Operations Analytics** | Dashboards, structured data systems, workflow visibility |
-| **Web Tools** | Lightweight dashboards using HTML, CSS, JavaScript, GitHub Pages |
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### Engineering, CAD & Robotics
-
-<p>
-  <img src="https://img.shields.io/badge/SolidWorks-111827?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CAD%20Automation-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GD%26T-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROS-111827?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-111827?style=for-the-badge" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-111827?style=for-the-badge&logo=githubpages&logoColor=white" />
-</p>
-
----
-
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### CAD Feature Recognition & Design Intent Extraction
-
-Worked on parametric data extraction and design intent extraction for CAD and manufacturing automation workflows.
-
-**Focus areas:**
-
-- Parametric CAD feature-tree parsing
-- Face-level geometry and topology analysis
-- Isomorphic feature recognition
-- Repeated and structurally similar feature grouping
-- Technical drawing and manufacturing automation support
-
-```text
-Goal: Make CAD geometry more interpretable for downstream engineering automation.
-```
-
-</td>
-<td width="50%" valign="top">
-
-### Autonomous Stack for Driverless Formula Student Car
-
-Worked on autonomy workflows for a driverless Formula Student-style racecar.
-
-**Focus areas:**
-
-- Cone-based landmark localization
-- SLAM and map building
-- Data association in sparse/repetitive environments
-- EKF-style state estimation concepts
-- ROS/Gazebo simulation workflows
-- Perception, mapping, planning, and control interaction
-
-```text
-Goal: Improve autonomous navigation reliability under uncertainty.
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Active Jet Spoiler — Experimental Fluid Mechanics Study
-
-Conducted an experimental fluid mechanics study on an active jet spoiler for aerodynamic flow control.
-
-**Focus areas:**
-
-- Particle Image Velocimetry
-- Flow-field visualization
-- Velocity field analysis
-- Wake and separation behavior
-- Jet-flow interaction
-- Baseline vs actuated flow comparison
-
-```text
-Goal: Understand how active blowing affects flow attachment and wake behavior.
-```
-
-</td>
-<td width="50%" valign="top">
+- Fabricated a modular model with an integrated jet-injection mechanism
+- Using PIV and CFD to study wake behavior and reattachment
 
 ### Multi-Actuator Quadrupedal Robot
 
-CAD and mechanism design project for a multi-actuator quadrupedal robot.
-
-**Focus areas:**
-
-- Modular leg and actuator assembly design
-- Chassis and linkage modelling
-- QDD, cycloidal, capstan, and harmonic drive comparison
-- Backdrivability and impact absorption
-- Exploded views and mechanism-level CAD
+Designed a multi-actuator leg architecture with emphasis on backdrivability, impact tolerance, and iterative mechanical evaluation.
 
 <a href="https://github.com/ArmaanM77/Multi-Actuator-Quadrupedal-Robot">
-  <img src="https://img.shields.io/badge/View%20Repository-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repository-1E293B?style=flat-square&logo=github&logoColor=white" alt="View quadrupedal robot repository" />
 </a>
 
-</td>
-</tr>
-</table>
+## Experience
 
----
+### ML Intern, Manufacturing Design Automation | Hanomi AI
 
-## DebSoc Dashboard App
+- Translated engineer-defined design rules and manufacturing constraints into structured workflows for ML-assisted CAD and drafting automation
+- Built preprocessing and algorithmic pipelines for engineering and manufacturing data
+- Worked with mechanical and design engineers on CAD constraints, design intent, drafting requirements, and manufacturability
 
-Built a web-based dashboard for debate society operations and analytics.
+## Tools I Use
 
-**What it tracks:**
+**Programming:** Python, C++, MATLAB<br />
+**Engineering:** SolidWorks, ANSYS Fluent, Simulink<br />
+**Robotics & ML:** ROS, Gazebo, OpenCV, PyTorch, Ultralytics
 
-- Debate records
-- Speaker and adjudicator performance
-- AP/BP format participation
-- Motion archives
-- Hall-of-fame records
-- External tournament records
-- Manual data sync workflows
+## A Practical Side Project
 
-<p>
-  <a href="https://armaanm77.github.io/Debsoc_Dashboard_App/">
-    <img src="https://img.shields.io/badge/Open%20Live%20App-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
----
-
-## What I Like Building
-
-```text
-Systems that are technical enough to be interesting,
-structured enough to be useful,
-and practical enough to survive real-world constraints.
-```
-
-I am especially interested in projects involving:
-
-- CAD automation
-- Manufacturing systems
-- Mechanical design intelligence
-- Robotics and autonomous systems
-- Operations analytics
-- Engineering decision-support tools
-
----
-
-## GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArmaanM77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E0F2FE&text_color=CBD5E1&icon_color=38BDF8" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanM77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=E0F2FE&text_color=CBD5E1" />
-
-</div>
-
-> If the stats cards look weak because major work is private/local, remove this section.  
-> A clean project-driven README is better than showing low public activity.
+I also built a [dashboard for IIT Roorkee's Debating Society](https://armaanm77.github.io/Debsoc_Dashboard_App/) to support real operational use: records, tournament data, and society analytics.
 
 ---
 
 <div align="center">
-
-### Mechanical Engineering · Automation · Robotics · Operations
-
-```text
-Build real systems. Keep them useful. Make them survive reality.
-```
-
+  <sub>Mechanical engineering, robotics, simulation, and useful software.</sub>
 </div>

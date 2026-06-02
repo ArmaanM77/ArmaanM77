@@ -74,20 +74,20 @@
     Mechanical Engineering @ IIT Roorkee
   </text>
   <text x="164" y="292" fill="#CBD5E1" font-size="34" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">
-    CAD Automation · Robotics · Manufacturing Systems
+    Mechanical Design · Robotics · Fluid Mechanics
   </text>
   <text x="164" y="338" fill="#94A3B8" font-size="24" font-weight="500" font-family="Inter, Segoe UI, Arial, sans-serif">
-    Design Intent Extraction · Autonomous Systems · Operations Analytics
+    Simulation · Experimentation · Engineering Software
   </text>
 
   <g transform="translate(164 365)">
     <rect x="0" y="0" width="168" height="38" rx="19" fill="#38BDF8" fill-opacity="0.14" stroke="#38BDF8" stroke-opacity="0.45"/>
-    <text x="20" y="25" fill="#E0F2FE" font-size="16" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">CAD / BRep</text>
+    <text x="20" y="25" fill="#E0F2FE" font-size="16" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">CAD / CFD</text>
 
     <rect x="188" y="0" width="145" height="38" rx="19" fill="#A78BFA" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.45"/>
     <text x="210" y="25" fill="#F3E8FF" font-size="16" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">ROS / SLAM</text>
 
     <rect x="353" y="0" width="198" height="38" rx="19" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.42"/>
-    <text x="375" y="25" fill="#D1FAE5" font-size="16" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Operations Analytics</text>
+    <text x="375" y="25" fill="#D1FAE5" font-size="16" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Engineering Systems</text>
   </g>
 </svg>
