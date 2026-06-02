@@ -5,74 +5,132 @@
 <br />
 
 <a href="https://www.linkedin.com/in/armaan-m7/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ArmaanM77">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
-## Hi, I'm Armaan
+## About Me
 
-I'm a Mechanical Engineering undergraduate at IIT Roorkee. I enjoy working on engineering problems where design, simulation, experimentation, and code meet: autonomous systems, CAD-driven workflows, robotics, and fluid mechanics.
+I'm a Mechanical Engineering undergraduate at **IIT Roorkee**, interested in building systems where mechanical design, simulation, experimentation, and code work together.
 
-My recent work includes building an autonomous vehicle stack in ROS and Gazebo, designing wind-tunnel experiments for controlled turbulence and active flow control, and contributing to ML-assisted CAD and drafting automation for manufacturing applications.
+- Autonomous Engineer for **[IIT Roorkee Motorsports x Data Science Group](https://github.com/DSGxRMS)**
+- Working on autonomous navigation, perception, SLAM, and hardware integration
+- Exploring fluid mechanics through CFD, PIV, wind-tunnel experiments, and active flow control
+- Building CAD-driven workflows for robotics and manufacturing applications
 
-## Selected Work
+## Featured Projects
 
-### Autonomous Vehicle Simulation & Hardware Design
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Worked with **IIT Roorkee Motorsports x Data Science Group** on a simulated autonomous ground vehicle and its hardware integration.
+### [RAMS-e-25](https://github.com/DSGxRMS/RAMS-e-25)
 
-- Developed a perception-planning-control pipeline in ROS and Gazebo
-- Trained an object detection model with **0.848 mAP** on the FSOCO dataset
-- Designed a discretized-environment SLAM framework for structured tracks
-- Implemented lateral and longitudinal controllers for closed-loop navigation
-- Contributed to proof-of-concept components for mounting, packaging, and actuation
+Autonomous ground-vehicle stack developed with **IIT Roorkee Motorsports x Data Science Group**.
+
+- Perception-planning-control pipeline in ROS and Gazebo
+- Object detection with **0.848 mAP** on the FSOCO dataset
+- Discretized-environment SLAM for structured tracks
+- Lateral and longitudinal control for closed-loop navigation
+
+</td>
+<td width="50%" valign="top">
+
+### [Active Flow Control Using a Synchronised Jet](https://github.com/ArmaanM77/Active-Flow-Control-Mechanism-for-a-Bluff-Body-Using-a-Synchronised-Jet)
+
+Experimental and computational study of drag reduction through synchronized jet actuation on a bluff-body wake.
+
+- Modular test model with integrated jet injection
+- PIV-based flow-field characterization
+- CFD validation and wake-reattachment analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Multi-Actuator Quadrupedal Robot](https://github.com/ArmaanM77/Multi-Actuator-Quadrupedal-Robot)
+
+Mechanical design of a multi-actuator leg architecture with emphasis on backdrivability and impact tolerance.
+
+- Parametric CAD assemblies
+- Kinematic layout and joint configuration
+- Iterative evaluation of load paths and actuator placement
+
+</td>
+<td width="50%" valign="top">
+
+### [DebSoc Dashboard](https://armaanm77.github.io/Debsoc_Dashboard_App/)
+
+A functional web dashboard built for the day-to-day operations of **IIT Roorkee's Debating Society**.
+
+- Debate, speaker, adjudicator, and tournament records
+- Motion archives and participation analytics
+- A single operational view for maintaining society data
+
+[Live app](https://armaanm77.github.io/Debsoc_Dashboard_App/) · [Repository](https://github.com/ArmaanM77/Debsoc_Dashboard_App)
+
+</td>
+</tr>
+</table>
+
+## Research & Engineering
 
 ### Active Grid for Controlled Turbulent Flow
 
-Designed a modular active grid for wind-tunnel studies under **Prof. Sushanta Dutta** at IIT Roorkee.
+Designed a modular active grid for wind-tunnel studies under **Prof. Sushanta Dutta** at IIT Roorkee. Built parametric CAD models of rotating winglets and used CFD to study blockage, flow uniformity, wake interaction, and shear-layer development.
 
-- Built parametric CAD models of rotating winglets
-- Studied blockage, flow uniformity, wake interaction, and shear-layer development
-- Used CFD simulations to evaluate geometric and actuation configurations
+### Manufacturing Design Automation | Hanomi AI
 
-### Active Flow Control of a Bluff Body
+Worked on ML-assisted CAD and drafting automation for manufacturing applications. Translated engineer-defined design rules and production constraints into structured preprocessing and algorithmic workflows.
 
-Working on an experimental setup to study drag reduction using synchronized jet actuation.
+## Languages & Tools
 
-- Fabricated a modular model with an integrated jet-injection mechanism
-- Using PIV and CFD to study wake behavior and reattachment
+<div align="center">
 
-### Multi-Actuator Quadrupedal Robot
+### Programming
 
-Designed a multi-actuator leg architecture with emphasis on backdrivability, impact tolerance, and iterative mechanical evaluation.
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab&theme=dark" alt="Python, C++, MATLAB" />
 
-<a href="https://github.com/ArmaanM77/Multi-Actuator-Quadrupedal-Robot">
-  <img src="https://img.shields.io/badge/View%20Repository-1E293B?style=flat-square&logo=github&logoColor=white" alt="View quadrupedal robot repository" />
-</a>
+### Robotics, ML & Engineering
 
-## Experience
+<img src="https://skillicons.dev/icons?i=ros,opencv,pytorch&theme=dark" alt="ROS, OpenCV, PyTorch" />
 
-### ML Intern, Manufacturing Design Automation | Hanomi AI
+<br />
+<br />
 
-- Translated engineer-defined design rules and manufacturing constraints into structured workflows for ML-assisted CAD and drafting automation
-- Built preprocessing and algorithmic pipelines for engineering and manufacturing data
-- Worked with mechanical and design engineers on CAD constraints, design intent, drafting requirements, and manufacturability
+<img src="https://img.shields.io/badge/SolidWorks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+<img src="https://img.shields.io/badge/ANSYS%20Fluent-FFB71B?style=for-the-badge&logo=ansys&logoColor=black" alt="ANSYS Fluent" />
+<img src="https://img.shields.io/badge/Simulink-F97316?style=for-the-badge&logo=mathworks&logoColor=white" alt="Simulink" />
+<img src="https://img.shields.io/badge/Gazebo-1F4B6E?style=for-the-badge" alt="Gazebo" />
+<img src="https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="Ultralytics" />
 
-## Tools I Use
+</div>
 
-**Programming:** Python, C++, MATLAB<br />
-**Engineering:** SolidWorks, ANSYS Fluent, Simulink<br />
-**Robotics & ML:** ROS, Gazebo, OpenCV, PyTorch, Ultralytics
+## GitHub Activity
 
-## A Practical Side Project
+<div align="center">
 
-I also built a [dashboard for IIT Roorkee's Debating Society](https://armaanm77.github.io/Debsoc_Dashboard_App/) to support real operational use: records, tournament data, and society analytics.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArmaanM77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Armaan's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanM77&layout=compact&theme=github_dark&hide_border=true" alt="Armaan's most-used languages" />
 
----
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmaanM77&theme=github_dark" alt="Armaan's GitHub contribution summary" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmaanM77&theme=github-dark-blue&hide_border=true" alt="Armaan's GitHub contribution streak" />
+
+</div>
+
+## Contributions Beyond My Profile
+
+Some of my autonomous-systems work lives in the **[DSGxRMS organization](https://github.com/DSGxRMS)** rather than in repositories under my personal account. The organization brings together IIT Roorkee Motorsports and the Data Science Group for the autonomous vehicle stack, including **[RAMS-e-25](https://github.com/DSGxRMS/RAMS-e-25)**.
 
 <div align="center">
   <sub>Mechanical engineering, robotics, simulation, and useful software.</sub>
