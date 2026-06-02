@@ -145,6 +145,10 @@ Worked on ML-assisted CAD and drafting automation for manufacturing applications
 
 Some of my autonomous-systems work lives in the **[DSGxRMS organization](https://github.com/DSGxRMS)** rather than in repositories under my personal account. The organization brings together IIT Roorkee Motorsports and the Data Science Group for the autonomous vehicle stack, including **[RAMS-e-25](https://github.com/DSGxRMS/RAMS-e-25)**.
 
+<a href="https://autonomousdsgxrms.framer.website/contact">
+  <img src="https://img.shields.io/badge/Visit%20DSGxRMS%20Website-2563EB?style=for-the-badge&logo=framer&logoColor=white" alt="Visit the DSGxRMS autonomous team website" />
+</a>
+
 <div align="center">
   <sub>Mechanical engineering, robotics, simulation, and useful software.</sub>
 </div>
