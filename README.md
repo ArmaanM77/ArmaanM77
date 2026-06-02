@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Armaan+Mahajan;Mechanical+Engineering+%40+IIT+Roorkee;Robotics+%7C+Simulation+%7C+Engineering+Design" alt="Typing introduction for Armaan Mahajan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Armaan+Mahajan;Mechanical+Engineering+%40+IIT+Roorkee;Automation+%7C+Operations+%7C+Engineering+Design" alt="Typing introduction for Armaan Mahajan" />
 </a>
 
 <br />
