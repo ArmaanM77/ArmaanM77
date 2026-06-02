@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Armaan Mahajan | Mechanical Engineering at IIT Roorkee" width="100%" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Armaan+Mahajan;Mechanical+Engineering+%40+IIT+Roorkee;Robotics+%7C+Simulation+%7C+Engineering+Design" alt="Typing introduction for Armaan Mahajan" />
+</a>
 
 <br />
 
@@ -33,9 +35,11 @@ I'm a Mechanical Engineering undergraduate at **IIT Roorkee**, interested in bui
 Autonomous ground-vehicle stack developed with **IIT Roorkee Motorsports x Data Science Group**.
 
 - Perception-planning-control pipeline in ROS and Gazebo
-- Object detection with **0.848 mAP** on the FSOCO dataset
-- Discretized-environment SLAM for structured tracks
-- Lateral and longitudinal control for closed-loop navigation
+- Object detection with **0.848 mAP**, structured-track SLAM, and closed-loop navigation
+
+<a href="https://github.com/DSGxRMS/RAMS-e-25">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View RAMS-e-25 repository" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -45,8 +49,11 @@ Autonomous ground-vehicle stack developed with **IIT Roorkee Motorsports x Data 
 Experimental and computational study of drag reduction through synchronized jet actuation on a bluff-body wake.
 
 - Modular test model with integrated jet injection
-- PIV-based flow-field characterization
-- CFD validation and wake-reattachment analysis
+- PIV-based characterization with CFD validation and wake-reattachment analysis
+
+<a href="https://github.com/ArmaanM77/Active-Flow-Control-Mechanism-for-a-Bluff-Body-Using-a-Synchronised-Jet">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View active flow control repository" />
+</a>
 
 </td>
 </tr>
@@ -58,8 +65,11 @@ Experimental and computational study of drag reduction through synchronized jet 
 Mechanical design of a multi-actuator leg architecture with emphasis on backdrivability and impact tolerance.
 
 - Parametric CAD assemblies
-- Kinematic layout and joint configuration
-- Iterative evaluation of load paths and actuator placement
+- Kinematic layout, joint configuration, and iterative actuator-placement evaluation
+
+<a href="https://github.com/ArmaanM77/Multi-Actuator-Quadrupedal-Robot">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View quadrupedal robot repository" />
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -69,10 +79,14 @@ Mechanical design of a multi-actuator leg architecture with emphasis on backdriv
 A functional web dashboard built for the day-to-day operations of **IIT Roorkee's Debating Society**.
 
 - Debate, speaker, adjudicator, and tournament records
-- Motion archives and participation analytics
-- A single operational view for maintaining society data
+- Motion archives, participation analytics, and a single operational view for society data
 
-[Live app](https://armaanm77.github.io/Debsoc_Dashboard_App/) · [Repository](https://github.com/ArmaanM77/Debsoc_Dashboard_App)
+<a href="https://armaanm77.github.io/Debsoc_Dashboard_App/">
+  <img src="https://img.shields.io/badge/Open%20Live%20App-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Open DebSoc dashboard" />
+</a>
+<a href="https://github.com/ArmaanM77/Debsoc_Dashboard_App">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DebSoc dashboard repository" />
+</a>
 
 </td>
 </tr>
@@ -111,20 +125,19 @@ Worked on ML-assisted CAD and drafting automation for manufacturing applications
 
 </div>
 
-## GitHub Activity
+## GitHub Profile
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArmaanM77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Armaan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanM77&layout=compact&theme=github_dark&hide_border=true" alt="Armaan's most-used languages" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmaanM77&theme=github_dark" alt="Armaan's GitHub contribution summary" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArmaanM77&theme=github-dark-blue&hide_border=true" alt="Armaan's GitHub contribution streak" />
+<a href="https://github.com/ArmaanM77?tab=repositories">
+  <img src="https://img.shields.io/github/followers/ArmaanM77?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</a>
+<a href="https://github.com/ArmaanM77?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="View public repositories" />
+</a>
+<a href="https://github.com/ArmaanM77?tab=overview&from=2026-01-01&to=2026-12-31">
+  <img src="https://img.shields.io/badge/Contribution%20Graph-View%20on%20GitHub-238636?style=for-the-badge&logo=github" alt="View GitHub contribution graph" />
+</a>
 
 </div>
 
