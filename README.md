@@ -26,7 +26,7 @@ I'm a Mechanical Engineering undergraduate at **IIT Roorkee**, interested in bui
 
 ## DSG x RMS
 
-I contribute to the autonomous vehicle program built by **[IIT Roorkee Motorsports x Data Science Group](https://github.com/DSGxRMS)**. My work focuses on perception, SLAM, autonomous navigation, and hardware integration for the team's ground-vehicle stack.
+I contribute to the autonomous vehicle program built by **[IIT Roorkee Motorsports x Data Science Group](https://github.com/DSGxRMS)**. My work focuses on perception, SLAM, autonomous navigation, and hardware integration for the team's ground-vehicle stack. Some of this work lives in the **[DSGxRMS organization](https://github.com/DSGxRMS)** rather than in repositories under my personal account.
 
 <a href="https://autonomousdsgxrms.framer.website/">
   <img src="https://img.shields.io/badge/Visit%20Team%20Website-2563EB?style=for-the-badge&logo=framer&logoColor=white" alt="Visit the DSG x RMS autonomous team website" />
@@ -147,14 +147,6 @@ Worked on ML-assisted CAD and drafting automation for manufacturing applications
 <img src="https://github-readme-stats.vercel.app/api?username=ArmaanM77&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Armaan's GitHub stats and rank" />
 
 </div>
-
-## Contributions Beyond My Profile
-
-Some of my autonomous-systems work lives in the **[DSGxRMS organization](https://github.com/DSGxRMS)** rather than in repositories under my personal account. The organization brings together IIT Roorkee Motorsports and the Data Science Group for the autonomous vehicle stack, including **[RAMS-e-25](https://github.com/DSGxRMS/RAMS-e-25)**.
-
-<a href="https://autonomousdsgxrms.framer.website/">
-  <img src="https://img.shields.io/badge/Visit%20DSGxRMS%20Website-2563EB?style=for-the-badge&logo=framer&logoColor=white" alt="Visit the DSGxRMS autonomous team website" />
-</a>
 
 <div align="center">
   <sub><strong>Somewhere between first principles and controlled chaos, the machine comes alive.</strong></sub>
