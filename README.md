@@ -162,5 +162,5 @@ Some of my autonomous-systems work lives in the **[DSGxRMS organization](https:/
 </a>
 
 <div align="center">
-  <sub><strong>I don't just write code. I build systems that have to survive reality.</strong></sub>
+  <sub><strong>Somewhere between first principles and controlled chaos, the machine comes alive.</strong></sub>
 </div>
