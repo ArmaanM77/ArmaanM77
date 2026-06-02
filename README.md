@@ -105,32 +105,13 @@ A functional web dashboard built for the day-to-day operations of **IIT Roorkee'
 
 ## Research & Engineering
 
-<table>
-<tr>
-<td width="15%" align="center" valign="middle">
-  <img src="./assets/iitr-logo.png" width="105" alt="IIT Roorkee logo" />
-</td>
-<td width="85%" valign="top">
-
-### Active Grid for Controlled Turbulent Flow | IIT Roorkee
+### <img src="./assets/iitr-logo.png" width="30" alt="IIT Roorkee logo" /> Active Grid for Controlled Turbulent Flow | IIT Roorkee
 
 Designed a modular active grid for wind-tunnel studies under **Prof. Sushanta Dutta**. Built parametric CAD models of rotating winglets and used CFD to study blockage, flow uniformity, wake interaction, and shear-layer development.
 
-</td>
-</tr>
-<tr>
-<td width="15%" align="center" valign="middle">
-  <img src="./assets/hanomi_logo.jpeg" width="105" alt="Hanomi AI logo" />
-</td>
-<td width="85%" valign="top">
-
-### Manufacturing Design Automation | Hanomi AI
+### <img src="./assets/hanomi-logo.png" width="30" alt="Hanomi AI logo" /> Manufacturing Design Automation | Hanomi AI
 
 Worked on ML-assisted CAD and drafting automation for manufacturing applications. Translated engineer-defined design rules and production constraints into structured preprocessing and algorithmic workflows.
-
-</td>
-</tr>
-</table>
 
 ## Languages & Tools
 
