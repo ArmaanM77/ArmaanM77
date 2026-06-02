@@ -24,6 +24,17 @@ I'm a Mechanical Engineering undergraduate at **IIT Roorkee**, interested in bui
 - Exploring fluid mechanics through CFD, PIV, wind-tunnel experiments, and active flow control
 - Building CAD-driven workflows for robotics and manufacturing applications
 
+## DSG x RMS
+
+I contribute to the autonomous vehicle program built by **[IIT Roorkee Motorsports x Data Science Group](https://github.com/DSGxRMS)**. My work focuses on perception, SLAM, autonomous navigation, and hardware integration for the team's ground-vehicle stack.
+
+<a href="https://autonomousdsgxrms.framer.website/">
+  <img src="https://img.shields.io/badge/Visit%20Team%20Website-2563EB?style=for-the-badge&logo=framer&logoColor=white" alt="Visit the DSG x RMS autonomous team website" />
+</a>
+<a href="https://github.com/DSGxRMS">
+  <img src="https://img.shields.io/badge/View%20GitHub%20Organization-181717?style=for-the-badge&logo=github&logoColor=white" alt="View the DSG x RMS GitHub organization" />
+</a>
+
 ## Featured Projects
 
 <table>
@@ -146,7 +157,7 @@ Worked on ML-assisted CAD and drafting automation for manufacturing applications
 
 Some of my autonomous-systems work lives in the **[DSGxRMS organization](https://github.com/DSGxRMS)** rather than in repositories under my personal account. The organization brings together IIT Roorkee Motorsports and the Data Science Group for the autonomous vehicle stack, including **[RAMS-e-25](https://github.com/DSGxRMS/RAMS-e-25)**.
 
-<a href="https://autonomousdsgxrms.framer.website/contact">
+<a href="https://autonomousdsgxrms.framer.website/">
   <img src="https://img.shields.io/badge/Visit%20DSGxRMS%20Website-2563EB?style=for-the-badge&logo=framer&logoColor=white" alt="Visit the DSGxRMS autonomous team website" />
 </a>
 
