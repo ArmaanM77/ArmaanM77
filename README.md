@@ -144,12 +144,7 @@ Worked on ML-assisted CAD and drafting automation for manufacturing applications
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=ArmaanM77&theme=github-dark-blue&hide_border=true" alt="Armaan's GitHub contribution streak" />
-
-<br />
-
-<a href="https://github.com/ArmaanM77?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="View public repositories" /></a>
-<a href="https://github.com/ArmaanM77?tab=overview"><img src="https://img.shields.io/badge/Full%20Contribution%20Graph-View%20on%20GitHub-238636?style=for-the-badge&logo=github" alt="View full GitHub contribution graph" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=ArmaanM77&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Armaan's GitHub stats and rank" />
 
 </div>
 
