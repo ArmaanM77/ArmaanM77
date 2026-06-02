@@ -140,11 +140,7 @@ Worked on ML-assisted CAD and drafting automation for manufacturing applications
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmaanM77&theme=github-compact&hide_border=true&area=true" alt="Armaan's GitHub activity graph" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=ArmaanM77&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Armaan's GitHub stats and rank" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ArmaanM77&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Armaan's GitHub stats and rank" />
 
 </div>
 
